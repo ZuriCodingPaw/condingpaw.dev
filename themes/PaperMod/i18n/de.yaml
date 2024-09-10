@@ -11,7 +11,7 @@
 
 - id: words
   translation:
-    one : "Wort"
+    one: "Wort"
     other: "{{ .Count }} Wörter"
 
 - id: toc
@@ -21,7 +21,7 @@
   translation: "Übersetzungen"
 
 - id: home
-  translation: "Home"
+  translation: "home"
 
 - id: edit_post
   translation: "Bearbeiten"

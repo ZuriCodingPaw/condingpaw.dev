@@ -161,6 +161,6 @@ soul interaction and trust adds to replayability and deepens the narrative.
 
 ## afterthought
 
-probably this is to much, probably i should simplify this idea, percolate it more and create something more achievable... tho i like it as is. More posts to come hopefully.
+probably this is to much, probably i should simplify this idea, percolate it more and create something more achievable... tho i like it as is. more posts to come hopefully.
 
 ![homunculus 2](/posts/homunculus/homunculus-2.jpg)

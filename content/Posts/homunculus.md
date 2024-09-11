@@ -50,8 +50,8 @@ the usssage of the souls will have moral implications and affect the outcome of 
 
 ### soul interaction
 
-- ignorance: initially, the player is uware of the nature of the philosopher's stone fragments. During this phase, using the fragments for personal gain(trading for habilities or revival ) does not affect the player moral alignment. this period allow players to get acustomed to the game mechanics without inmediat consequences.
-- discovery: the trua nature of the fragments as souls can be revealed in two ways:
+- ignorance: initially, the player is unaware of the nature of the philosopher's stone fragments. during this phase, using the fragments for personal gain(trading for habilities or revival ) does not affect the player moral alignment. this period allow players to get acustomed to the game mechanics without inmediat consequences.
+- discovery: the true nature of the fragments as souls can be revealed in two ways:
   - inside the door of truth: during the encounters with the truth, the homunculus can learn about the fragments.
   - chance encounter: a random event or dialogue with other character may reveal this fact.
 - interaction: the player may interact with the soul fragments

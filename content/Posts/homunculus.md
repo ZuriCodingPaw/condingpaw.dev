@@ -7,83 +7,83 @@ tags: ["gamedev", "design doc", "dream"]
 ---
 "this was once revealed to me in a dream"
 
-let me start with where did this came from, earlier in january(2024-01-18), i woke up, took note of what i was dreaming and went back to sleep. I repeated this several times. when i was finally awake, i decided to compile all the notes and make them a little cohesive.
+let me start with where this came from, earlier in january(2024-01-18), i woke up, took note of what i was dreaming, and went back to sleep. I repeated this several times. when i was finally awake, i decided to compile all the notes and make them a little cohesive.
 
-the end result is this, a more or less structured game design doc, some game mechanics a weird storyline (clearly inspired from one of my favourite mangas) and the desire to create it at some point. i'm now makind this public to receive feedback, and to try and encourage myself to create something tangible out of it.
+the result is this, a more or less structured game design doc, some game mechanics a weird storyline (clearly inspired by one of my favourite mangas), and the desire to create it at some point. i'm now making this public to receive feedback and to try and encourage myself to create something tangible out of it.
 
 ![homunculus 1](/posts/homunculus/homunculus-1.jpg)
 
-the aim is to create a fun roguelite mixed with rpg with several interesting mechanics that go hand in hand with a story rich gameplay. world building and storytelling(not my forte) should be the forefront of the game, side by side with entertaining core gameplay.
+the aim is to create a fun rogue-lite mixed with rpg with several interesting mechanics that go hand in hand with story-rich gameplay. world-building and storytelling(not my forte) should be at the forefront of the game, side by side with entertaining core gameplay.
 
 ## setting (tl:dr)
-the game lore is based heavily in an manga i used to like a lot: fma. if you know it you'll find a lot of parallels.
+the game lore is based heavily on a manga i used to like a lot: fma. if you know it you'll find a lot of parallels.
 
-in a mystical world where alcheymy and magic are key, a homunculus is born from an arcaic and forbidden ritual, performed by a powerful hermit alchemist named alaric. the homunculus, initially a shapeles inky blob with a childlike consciousness, is thrust into a world filled with wonders and dangers.
+in a mystical world where alchemy and magic are key, a homunculus is born from an archaic and forbidden ritual, performed by a powerful hermit alchemist named alaric. the homunculus, initially a shapeless inky blob with a childlike consciousness, is thrust into a world filled with wonders and dangers.
 
 ### gameplay and story integration
 
-- roguelite mechanics: the homunculus will explore various environments from dungeons, to forests, to cities. each death is not the end of the game(generaly speaking) but a chance to restart with some retained abilities, knowledge and loot. the homunculus grows!
-- base building: the homunculus discovers multiple locations on the game that used to belong to other alchemists, even to alaric. those can be used as a base. the player can gather resources to upgrade its lab equipment, unock abilities, craft items and lern more about the homunculus origin.
-- good vs evil progression: the homunculus will face moral dilemmas and challenges that will shape the path towards good or evil. decisions will affect ability tree options, appearance and the world that surround it. npcs both allies and enemies will respond diferent based on the homunculus path.
+- roguelite mechanics: the homunculus will explore various environments from dungeons, to forests, to cities. each death is not the end of the game(generally speaking) but a chance to restart with some retained abilities, knowledge, and loot. the homunculus grows!
+- base building: the homunculus discovers multiple locations on the game that used to belong to other alchemists, even to alaric. those can be used as a base. the player can gather resources to upgrade its lab equipment, unlock abilities, and craft items, and learn more about the homunculus origin.
+- good vs evil progression: the homunculus will face moral dilemmas and challenges that will shape the path towards good or evil. decisions will affect ability tree options, appearance, and the world that surrounds it. npcs both allies and enemies will respond differently based on the homunculus path.
 
 ### base story arc
 
 - discovery and growth: the homunculus is exploring the world, learning about its nature, its social stance, and the moral complexities of life. it faces challenges to differentiate right and wrong.
 - facing its creator: the homunculus will eventually encounter alaric, who reveals the true purpose of the homunculus creation. alaric intentions may be noble or dark, influenced by the player's choices.
-- the ultimate decision: on the hands of the little homunculus is the destiny of both itself and alaric. the player can choose to ally with its creator, or to confront and defeat him.
-- legacy: the ending varies bases on the homunculus journey and decisions. it could become a guardian, a tyrant, a liberator, or something completely different. no matter what it is the homunculus left a lasting impact in the world.
+- the ultimate decision: on the hands of the little homunculus is the destiny of both itself and alaric. the player can choose to ally with its creator or to confront and defeat him.
+- legacy: the ending varies based on the homunculus journey and decisions. it could become a guardian, a tyrant, a liberator, or something completely different. no matter what it is the homunculus left a lasting impact in the world.
 
-thru the game the player character development is central, it mirrors the player journey and choices, the narrative allows for multiple playthrougs with different outcomes, encouraging the player to explore the full spectrum of morality and consequence.
+throughout the game the player's character development is central, it mirrors the player's journey and choices, and the narrative allows for multiple playthroughs with different outcomes, encouraging the player to explore the full spectrum of morality and consequence.
 
 ## worldbuilding and mechanics explained
 
 ### the door of truth
 
 - death and the door: upon dying, the homunculus is transported to a mystical realm where it confronts the "truth"(god), a mysterious omnipresent entity that guards the secrets of the universe and alchemy. this encounter happens at the door of truth, a gateway between life and beyond.
-- philosopher's stone fragments: during the game the homunculus collects fragmes of the philosopher's stone, a powerful and mythical substance. initially, the fragments serve as a form of currency, for upgrades and resources. however the player gradually discovers that these are actually souls, adding moral weight to it's use.
-- trading with the truth: at the doow the player has the option to trade fragments:
+- philosopher's stone fragments: during the game, the homunculus collects fragments of the philosopher's stone, a powerful and mythical substance. initially, the fragments serve as a form of currency, for upgrades and resources. however, the player gradually discovers that these are actually souls, adding moral weight to their use.
+- trading with the truth: at the door the player has the option to trade fragments:
   - revival: to return to life, the homunculus must trade fragments, the cost of revival increases with each death.
-  - gaining abilities/stats: the player can trade fragments to learn new habilities or enhance it's build.
-  - acquire knowledge/lore: the truth may offer hidden knowledge about the game universe, hints, secrets. the information may unlock hidden areas, or completely different story paths.
+  - gaining abilities/stats: the player can trade fragments to learn new abilities or enhance his build.
+  - acquire knowledge/lore: the truth may offer hidden knowledge about the game universe, hints, and secrets. the information may unlock hidden areas or completely different story paths.
 
-the usssage of the souls will have moral implications and affect the outcome of the overall story. players must balance their immediate need for progress (revival, build progression) with the long term impact this may have on their run.
+the usage of the souls will have moral implications and affect the outcome of the overall story. players must balance their immediate need for progress (revival, build progression) with the long-term impact this may have on their run.
 
 ### soul interaction
 
-- ignorance: initially, the player is unaware of the nature of the philosopher's stone fragments. during this phase, using the fragments for personal gain(trading for habilities or revival ) does not affect the player moral alignment. this period allow players to get acustomed to the game mechanics without inmediat consequences.
+- ignorance: initially, the player is unaware of the nature of the philosopher's stone fragments. during this phase, using the fragments for personal gain(trading for habilities or revival ) does not affect the player's moral alignment. this period allows players to get accustomed to the game mechanics without immediate consequences.
 - discovery: the true nature of the fragments as souls can be revealed in two ways:
   - inside the door of truth: during the encounters with the truth, the homunculus can learn about the fragments.
-  - chance encounter: a random event or dialogue with other character may reveal this fact.
+  - chance encounter: a random event or dialogue with another character may reveal this fact.
 - interaction: the player may interact with the soul fragments
-  - communicating: once aware of the fragments true nature the player can choose to interact with them. this interaction takes the form os lisktenin to the sould, and may lead to side quests.
-  - gaining trust: completeng the tasks and diferenct actions of the player may gain the trust of the souls. this trust can provide a "shadow advantage"(subtle, undisclosed benefit or buf) while using the fragments. the nature of this buf may vary, increased effectivenes of the fragments, reduced cost for abilities or revival, or even unlocking unique abilities and powers.
+  - communicating: once aware of the fragment's true nature the player can choose to interact with them. this interaction takes the form of listening to the soul and may lead to side quests.
+  - gaining trust: completing the tasks and different actions of the player may gain the trust of the souls. this trust can provide a "shadow advantage"(subtle, undisclosed benefit or buf) while using the fragments. the nature of this buf may vary, increased effectivenes of the fragments, reduced cost for abilities or revival, or even unlocking unique abilities and powers.
 - moral implications
   - trusted usage: if the player gains trust from the soul, the ussage of the fragments will no longer affect the moral progression towards evil. it reflects a symbiotic relationship between the homunculus and the souls.
-  - untrusted ussage: if the player ignores and don't gain souls trust, or continues to forcibly use the souls, the moreal progresssion will move towards an evil path.
+  - untrusted usage: if the player ignores and doesn't gain the soul's trust, or continues to use the souls forcibly, the moral progression will move towards an evil path.
 
-soul interaction and trust adds to replayability and deepens the narrative.
+soul interaction and trust add to replayability and deepen the narrative.
 
 ### good vs evil, morality
 
 - evil path: immediate reward future challenges.
-  - instant gratification: evil results in inmediate power boosts, easier battles, or quick resource access.
-  - future consequences: difficulty may be increased later, stronger enemies, less cooperative npcs and a world that becomes harsher and hostile against the player.
-- good path: challenging beggining, cummulative rewards.
-  - innitial challenge: choosing the good path may mean to reject instant gratification, avoid getting easy power ups or even taking longer to complete early stages in the game.
-  - long term benefits: over time this choices yiel greater rewards, loyal allies, a supportive environment, and even unique habilities or resources.
+  - instant gratification: evil results in immediate power boosts, easier battles, or quick resource access.
+  - future consequences: difficulty may be increased later, stronger enemies, less cooperative npcs, and a world that becomes harsher and hostile against the player.
+- good path: challenging beginning, cumulative rewards.
+  - initial challenge: choosing the good path may mean rejecting instant gratification, avoiding getting easy power-ups or even taking longer to complete early stages in the game.
+  - long-term benefits: over time this choice yields greater rewards, loyal allies, a supportive environment, and even unique abilities or resources.
 -balancing act:
-  - choice significance: the game needs to ensure both paths are appealing on their own way, but with clear tradeoffs.
-  - visual and gameplay feedback: choices should affect the homunculus appearance and abilities, as well as the game world's response to the player in  clear respnse to the chosen path, giving immediad feedback to the player.
+  - choice significance: the game needs to ensure both paths are appealing in their own way but with clear tradeoffs.
+  - visual and gameplay feedback: choices should affect the homunculus' appearance and abilities, as well as the game world's response to the player in clear response to the chosen path, giving immediate feedback to the player.
 
 ### soul fragments
 
 - obtaining fragments:
-  - defeating enemies: upon defeat, an enemy may drop soul fragments. the souls were in the enemy's possesion but not the soul of the enemy.
+  - defeating enemies: upon defeat, an enemy may drop soul fragments. the souls were in the enemy's possession but not the soul of the enemy.
   - completing quests: npcs may reward quest completion with fragments, both side and main quests.
-  - trading and gifts: merchants and other npcs might trade or gift fragments not knowing or in spite of their true nature.
+  - trading and gifts: merchants and other npcs might trade or gift fragments not knowing or despite their true nature.
   - impact on morality: any of the previous ways to acquire the souls do not affect morality standing.
 - harvesting souls:
-  - post defeat: after defeating some enemies the player may face a choice. to harvest the enemy soul to create a fragment or just defeat them normaly.
+  - post defeat: after defeating some enemies the player may face a choice. to harvest the enemy's soul to create a fragment or just defeat them normally.
   - morality impact: harvesting souls pushes the player toward evil.
   - risk-reward: harvested souls may be more valuable than collected souls.
 
@@ -115,7 +115,7 @@ soul interaction and trust adds to replayability and deepens the narrative.
     - evil actions: exploiting others, making selfish choices, harvesting souls.
   - effects:
     - npc and enemy perceptions: alters how npcs and enemies interact with and react to the player.
-    - gameplay impact: influences quest availability, story progression, and potentially alters the game's ending.
+    - gameplay impact: influences quest availability, and story progression, and potentially alters the game's ending.
 - wealth standing
   - definition: based on the player's current gold count, reflecting their economic status in the game world.
   - influencing factors:
@@ -127,7 +127,7 @@ soul interaction and trust adds to replayability and deepens the narrative.
 
 #### interactions between standings
 
-- morality and souls trust:
+- morality and soul trust:
   - quest alignment: the nature of quests for gaining souls' trust aligns with the player's morality. for example, quests on the good path focus on benevolence, while those on the evil path might involve manipulation or control.
 - balancing standings:
   - strategic decision-making: players must consider how their actions affect each standing, leading to a more immersive and thoughtful gameplay experience.
@@ -147,7 +147,7 @@ soul interaction and trust adds to replayability and deepens the narrative.
     - the cost increases with each use.
   - use a balloon flask:
     - if available, players can choose to respawn at their alchemy lab using a balloon flask.
-    - once used, the flask is destroyed, it adds a resource management element to the game.
+    - once used, the flask is destroyed. it adds a resource management element to the game.
   - go through the door of truth:
     - this is the default option if the player lacks the resources for the other choices.
     - it leads to interactions with "the truth" and the usual consequences of death in the game.
@@ -161,6 +161,6 @@ soul interaction and trust adds to replayability and deepens the narrative.
 
 ## afterthought
 
-probably this is to much, probably i should simplify this idea, percolate it more and create something more achievable... tho i like it as is. more posts to come hopefully.
+probably this is too much, probably i should simplify this idea, percolate it more, and create something more achievable... tho i like it as is. more posts to come hopefully.
 
 ![homunculus 2](/posts/homunculus/homunculus-2.jpg)

@@ -62,6 +62,11 @@ params:
   ShowPageNums: true
   ShowToc: true
 
+  editPost:
+    URL: "https://github.com/ZuriCodingPaw/condingpaw.dev/tree/main/content"
+    Text: "suggest changes" # edit text
+    appendFilePath: true
+
   homeInfoParams:
     Title: "coding paw"
     Content: >

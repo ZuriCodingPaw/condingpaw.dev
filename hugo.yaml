@@ -65,27 +65,27 @@ params:
   homeInfoParams:
     Title: "coding paw"
     Content: >
-      👋 hey there i'm zuri. i'm all about learning and exploring tech, especially:
+      👋 hey there i'm zuri. i'm all about diving deep into the wired, with a special love for:
 
 
       - 🌐 distributed systems (consensus algos are beautiful)
 
-      - 🎨 graphics programming (amateur triangle tamer)
-
-      - 🔧 embedded systems (tiny machines everywhere)
-
       - 🎵 audio programming (use machines to make noise... music)
 
-      - 🧠 ml and ai (teaching machines to think... what will go wrong?)
+      - 🔧 tinkering with stuff adjacent to embedded systems, graphics, and ai/ml
 
 
       this blog is my digital playground where I share my my latest "aha!" and mostly "oops" moments.
 
 
       expect a mix of technical jargon, half-baked ideas, and the occasional rant.
+      i update this space as often as inspiration (or caffeine) strikes, so check back whenever you need a dose of tech curiosity.
 
 
       いきましょう! 🚀
+
+
+      p.s. potential employers: yes, i can write in proper caps. but where's the fun in that?
 
   socialIcons:
     - name: github

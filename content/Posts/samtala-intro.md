@@ -33,7 +33,7 @@ the initial vision for samtala is to create a p2p communication platfor that pri
 
 while i'm presenting ambitious ideas for what samtala could become, i'm approaching the project with a learner mindset. my primary goals are:
 
-1. deed dive into zig: i wanna use this project as a practical way to truly learn and understand the zig programming language.
+1. deep dive into zig: i wanna use this project as a practical way to truly learn and understand the zig programming language.
 2. explore distributed systems: gain hands-on experience with the underlying problem space of distributed systems, concepts and challenges.
 3. experiment with decentralization: investigate how decentralized architectures can be used and applied to day to day communications.
 4. learn about modern encryption: understand and implement rudimentary end to end encryption, solving the auth problem in a distributed way and tackle other security related issues.

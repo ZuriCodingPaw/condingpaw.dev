@@ -109,7 +109,7 @@ here is how you can be part of it:
 ## conclusion: embrace the unknown
 
 as i start the journey with samtala, i look forward to the learnings ahead.
-Will this grow into something more than just a side project? to early to say, probably not, but i hope it can.
+will this grow into something more than just a side project? to early to say, probably not, but i hope it can.
 
 thanks for taking the time to read this post and for your interest in samtala.
 stay tuned for more updates as this journey is just beginning.

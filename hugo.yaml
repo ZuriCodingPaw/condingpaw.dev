@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://codingpaw.dev"
-title: "coding paw blog"
+baseURL: "https://inkblob.dev"
+title: "ink blob blog"
 copyright: "© zuri-zel"
 paginate: 5
 theme: [PaperMod]
@@ -46,8 +46,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "codingpaw blog"
-  description: "simple blog for myself, a red panda."
+  title: "ink blob blog"
+  description: "simple blog for myself, an ink blob."
   author: zuri-zel
 
   defaultTheme: auto
@@ -63,12 +63,12 @@ params:
   ShowToc: true
 
   editPost:
-    URL: "https://github.com/ZuriCodingPaw/condingpaw.dev/tree/main/content"
+    URL: "https://github.com/inkblobdev/inkblob.dev/tree/main/content"
     Text: "suggest changes" # edit text
     appendFilePath: true
 
   homeInfoParams:
-    Title: "coding paw"
+    Title: "ink blob"
     Content: >
       hey there i'm zuri-zel. i'm all about diving deep into the wired, with a special love for:
 
@@ -95,13 +95,13 @@ params:
   socialIcons:
     - name: github
       title: view source on github
-      url: "https://github.com/ZuriCodingPaw/condingpaw.dev"
+      url: "https://github.com/inkblobdev/inkblob.dev"
     - name: X
       title: follow me on x
-      url: "https://x.com/zuricodingpaw"
+      url: "https://x.com/inkblobdev"
     - name: buymeacoffee
       title: buy me a coffee :)
-      url: "https://buymeacoffee.com/ZuriCodingPaw"
+      url: "https://buymeacoffee.com/inkblobdev"
 
   assets:
     disableHLJS: true
